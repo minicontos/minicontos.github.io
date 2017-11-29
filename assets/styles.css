@@ -459,3 +459,7 @@ input.button.next {
 .imagem-banner {
 	padding-bottom: 2em;
 }
+
+.banner-size {
+	width: 900px;
+}
